@@ -16,7 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -36,5 +36,5 @@
   "devDependencies": {
     "gh-pages": "^2.2.0"
   },
-  "homepage": "http://antonaroche.github.io/"
+  "homepage": "http://antonaroche.github.io"
 }

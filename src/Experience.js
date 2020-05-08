@@ -26,11 +26,7 @@ class Experience extends Component {
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
-                      <h2>
-                        <a href="#">
-                          Software Developer (Network Management), Ciena
-                        </a>
-                      </h2>
+                      <h2>Software Developer (Network Management), Ciena</h2>
                       <h2>
                         <span>January 2020 - Present</span>
                       </h2>
@@ -72,9 +68,7 @@ class Experience extends Component {
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
-                      <h2>
-                        <a href="#">Technical Developer (Web), NSERC</a>
-                      </h2>
+                      <h2>Technical Developer (Web), NSERC</h2>
                       <h2>
                         <span>May 2019 - December 2019</span>
                       </h2>
@@ -116,11 +110,7 @@ class Experience extends Component {
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
-                      <h2>
-                        <a href="#">
-                          Software Development Intern, Carleton University
-                        </a>
-                      </h2>
+                      <h2>Software Development Intern, Carleton University</h2>
                       <h2>
                         <span>May 2018 - Jul. 2018</span>
                       </h2>

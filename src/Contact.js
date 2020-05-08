@@ -25,7 +25,7 @@ class Contact extends Component {
                 </div>
                 <div className="colorlib-text">
                   <p>
-                    <a href="#">anton.aroche@gmail.com</a>
+                    <a href="mailto:anton.aroche@gmail.com">anton.aroche@gmail.com</a>
                   </p>
                 </div>
               </div>
@@ -53,7 +53,7 @@ class Contact extends Component {
                 </div>
                 <div className="colorlib-text">
                   <p>
-                    <a href="tel://">+1 613 799 1189</a>
+                    <a href="tel:613-799-1189">613-799-1189</a>
                   </p>
                 </div>
               </div>

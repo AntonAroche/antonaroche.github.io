@@ -68,6 +68,12 @@ class Projects extends Component {
                         <a href="https://github.com/AntonAroche/palette-picker">
                           <i className="icon-github" />
                         </a>
+                        <a
+                          href="https://antonaroche.github.io/palette-picker/"
+                          style={{ marginLeft: "5px" }}
+                        >
+                          <i className="icon-link2" />
+                        </a>
                       </span>
                     </p>
                   </div>
@@ -129,6 +135,35 @@ class Projects extends Component {
                     <p className="icon">
                       <span>
                         <a href="https://github.com/AntonAroche/react-practice-apps/tree/master/lights-out">
+                          <i className="icon-github" />
+                        </a>
+                      </span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="col-md-6 animate-box"
+              data-animate-effect="fadeInRight"
+            >
+              <div
+                className="project"
+                style={{ backgroundImage: "url(images/Dadjokes-demo.gif)" }}
+              >
+                <div className="desc">
+                  <div className="con">
+                    <h3>
+                      <a href="work.html">Dad Jokes (React)</a>
+                    </h3>
+                    <span>Find your favourite Dad Jokes!</span>
+                    <span>
+                      A reddit-like application that loads dad jokes from an API 
+                      and allows you to upvote/downvote them.
+                    </span>
+                    <p className="icon">
+                      <span>
+                        <a href="https://github.com/AntonAroche/react-practice-apps/tree/master/dad-jokes">
                           <i className="icon-github" />
                         </a>
                       </span>

@@ -26,18 +26,50 @@ class Experience extends Component {
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
+                      <h2>Product Development Intern, Mitel</h2>
+                      <h2>
+                        <span>September 2020 - December 2020</span>
+                      </h2>
+                      <p>
+                        <ul>
+                          <li>
+                            Updated Mitel’s <strong>Angular</strong> chat component to{" "}
+                            <strong>WCAG 2.1 accessibility standards</strong>, adding keyboard and screen reader
+                            features and enabling distribution of the product to a <strong>wider userbase</strong>.
+                          </li>
+                          <li>
+                            Implemented a <strong>Node.js TypeScript microservice deployment solution</strong> that tests, builds
+                            and deploys microservices onto multiple clouds and generates Github releases.
+                          </li>
+                          <li>
+                            Greatly improved cloud deployment speed by running <strong>parallel deployment</strong>
+                            for multiple microservices, <strong>reducing its runtime by over 60%</strong>.
+                          </li>
+                        </ul>
+                      </p>
+                    </div>
+                  </div>
+                </article>
+                <article
+                  className="timeline-entry animate-box"
+                  data-animate-effect="fadeInLeft"
+                >
+                  <div className="timeline-entry-inner">
+                    <div className="timeline-icon color-2">
+                      <i className="icon-pen2" />
+                    </div>
+                    <div className="timeline-label">
                       <h2>Software Developer (Network Management), Ciena</h2>
                       <h2>
-                        <span>January 2020 - Present</span>
+                        <span>January 2020 - August 2020</span>
                       </h2>
                       <p>
                         <ul>
                           <li>
                             Using <strong>Javascript</strong> in the{" "}
-                            <strong>Ember.js framework,</strong> developed new
-                            features and bug fixes that improved the Plus
-                            License of Ciena's Manage, Control and Plan
-                            software.
+                            <strong>Ember.js framework,</strong> developed a user-friendly dashboard card
+                            that measures and displays the photonic performance of networks
+                            within Ciena’s Manage, Control and Plan software.
                           </li>
                           <li>
                             Created an ESLint code linting plugin that{" "}
@@ -64,7 +96,7 @@ class Experience extends Component {
                   data-animate-effect="fadeInRight"
                 >
                   <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-2">
+                    <div className="timeline-icon color-3">
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
@@ -106,7 +138,7 @@ class Experience extends Component {
                   data-animate-effect="fadeInLeft"
                 >
                   <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-3">
+                    <div className="timeline-icon color-4">
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">

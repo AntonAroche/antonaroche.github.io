@@ -85,7 +85,7 @@ class About extends Component {
                   <div className="hire">
                     <h2>
                       I'm currently looking for <br />
-                      an internship for the Fall 2020 term!
+                      an internship for the Summer 2021 term!
                     </h2>
                     <a href="https://drive.google.com/file/d/1cEfeRptfkkzyvnNyxB_v7s2AMg6u9bGf/view?usp=sharing" className="btn-hire">
                       Read my resume

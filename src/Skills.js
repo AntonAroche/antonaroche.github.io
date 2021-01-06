@@ -30,7 +30,7 @@ class Skills extends Component {
               data-animate-effect="fadeInLeft"
             >
               <div className="progress-wrap">
-                <h3>Javascript</h3>
+                <h3>Javascript / Typescript</h3>
                 <div className="progress">
                   <div
                     className="progress-bar color-1"
@@ -90,7 +90,7 @@ class Skills extends Component {
               data-animate-effect="fadeInRight"
             >
               <div className="progress-wrap">
-                <h3>HTML/CSS</h3>
+                <h3>HTML / CSS</h3>
                 <div className="progress">
                   <div
                     className="progress-bar color-4"

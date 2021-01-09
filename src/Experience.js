@@ -42,7 +42,7 @@ class Experience extends Component {
                             and deploys microservices onto multiple clouds and generates Github releases.
                           </li>
                           <li>
-                            Greatly improved cloud deployment speed by running <strong>parallel deployment</strong>
+                            Greatly improved cloud deployment speed by running <strong>parallel deployment</strong>{" "}
                             for multiple microservices, <strong>reducing its runtime by over 60%</strong>.
                           </li>
                         </ul>

@@ -16,8 +16,8 @@ class About extends Component {
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>
-                      <strong>Hi, I'm Anton!</strong> I'm a software engineering
-                      student with a passion for all things web and mobile
+                      <strong>Hi, I'm Anton!</strong> I'm a software engineer
+                      with a passion for all things web and mobile
                       development. I love delivering experiences that users can
                       easily understand, feel familiar with and love to use.
                     </p>
@@ -85,7 +85,7 @@ class About extends Component {
                   <div className="hire">
                     <h2>
                       I'm currently looking for <br />
-                      an internship for the Summer 2021 term!
+                      a full-time position starting in May 2022!
                     </h2>
                     <a href="https://drive.google.com/file/d/1cEfeRptfkkzyvnNyxB_v7s2AMg6u9bGf/view?usp=sharing" className="btn-hire">
                       Read my resume

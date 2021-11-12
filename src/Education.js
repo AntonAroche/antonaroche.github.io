@@ -51,7 +51,7 @@ class Education extends Component {
                           <div className="col-md-6">
                             <p>
                               Cooperative Education option.
-                              Currently 3rd year standing, set to be complete in <strong>April 2022.</strong>
+                              Currently 4th year standing, set to be complete in <strong>April 2022.</strong>
                             </p>
                           </div>
                           <div className="col-md-6">

@@ -26,9 +26,44 @@ class Experience extends Component {
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
-                      <h2>Product Development Intern, Mitel</h2>
+                      <h2>Signiant</h2>
                       <h2>
-                        <span>September 2020 - December 2020</span>
+                        <span>Full Stack Developer, May 2021 - Present</span>
+                      </h2>
+                      <p>
+                        <ul>
+                          <li>
+                            Created dynamic components using <strong>React and Redux</strong> to provide a custom login flow for users and
+                            display proxy server information, improving Signiant’s Jet product.
+                          </li>
+                          <li>
+                            Developed <strong>Node.js Express</strong> microservice endpoints that moved the login authentication flow from
+                            Auth0 to <strong>AWS Cognito</strong>, creating significant cost savings for the company
+                          </li>
+                          <li>
+                            Converted a <strong>Node.js</strong> EC2 microservice to use <strong>AWS Lambda</strong>, improving its scalability and stability.
+                          </li>
+                          <li>
+                            Deployed and configured an <strong>AWS EC2</strong> instance to run <strong>Bitbucket builds</strong>, increasing the available
+                            memory for microservice builds and deployment
+                          </li>
+                        </ul>
+                      </p>
+                    </div>
+                  </div>
+                </article>
+                <article
+                  className="timeline-entry animate-box"
+                  data-animate-effect="fadeInRight"
+                >
+                  <div className="timeline-entry-inner">
+                    <div className="timeline-icon color-2">
+                      <i className="icon-pen2" />
+                    </div>
+                    <div className="timeline-label">
+                      <h2>Mitel</h2>
+                      <h2>
+                        <span>Product Development Intern, September 2020 - December 2020</span>
                       </h2>
                       <p>
                         <ul>
@@ -55,13 +90,13 @@ class Experience extends Component {
                   data-animate-effect="fadeInLeft"
                 >
                   <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-2">
+                    <div className="timeline-icon color-3">
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
-                      <h2>Software Developer (Network Management), Ciena</h2>
+                      <h2>Ciena</h2>
                       <h2>
-                        <span>January 2020 - August 2020</span>
+                        <span>Software Developer (Network Management), January 2020 - August 2020</span>
                       </h2>
                       <p>
                         <ul>
@@ -80,7 +115,7 @@ class Experience extends Component {
                           </li>
                           <li>
                             Updated the entire codebase to the latest version of
-                            Ember, redesigning previously outdated code to use
+                            Ember.js, redesigning previously outdated code to use
                             the{" "}
                             <strong>
                               latest Javascript and Ember.js features.
@@ -96,13 +131,13 @@ class Experience extends Component {
                   data-animate-effect="fadeInRight"
                 >
                   <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-3">
+                    <div className="timeline-icon color-4">
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
-                      <h2>Technical Developer (Web), NSERC</h2>
+                      <h2>NSERC</h2>
                       <h2>
-                        <span>May 2019 - December 2019</span>
+                        <span>Technical Developer (Web), May 2019 - December 2019</span>
                       </h2>
                       <p>
                         <ul>
@@ -138,13 +173,13 @@ class Experience extends Component {
                   data-animate-effect="fadeInLeft"
                 >
                   <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-4">
+                    <div className="timeline-icon color-5">
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">
-                      <h2>Software Development Intern, Carleton University</h2>
+                      <h2>Carleton University</h2>
                       <h2>
-                        <span>May 2018 - Jul. 2018</span>
+                        <span>Software Development Intern, May 2018 - Jul. 2018</span>
                       </h2>
                       <p>
                         <ul>

@@ -38,9 +38,9 @@ class Skills extends Component {
                     aria-valuenow={90}
                     aria-valuemin={0}
                     aria-valuemax={100}
-                    style={{ width: "90%" }}
+                    style={{ width: "95%" }}
                   >
-                    <span>90%</span>
+                    <span>95%</span>
                   </div>
                 </div>
               </div>
@@ -78,9 +78,9 @@ class Skills extends Component {
                     aria-valuenow={80}
                     aria-valuemin={0}
                     aria-valuemax={100}
-                    style={{ width: "80%" }}
+                    style={{ width: "90%" }}
                   >
-                    <span>80%</span>
+                    <span>90%</span>
                   </div>
                 </div>
               </div>
@@ -98,9 +98,9 @@ class Skills extends Component {
                     aria-valuenow={90}
                     aria-valuemin={0}
                     aria-valuemax={100}
-                    style={{ width: "90%" }}
+                    style={{ width: "95%" }}
                   >
-                    <span>90%</span>
+                    <span>95%</span>
                   </div>
                 </div>
               </div>
@@ -138,9 +138,9 @@ class Skills extends Component {
                     aria-valuenow={65}
                     aria-valuemin={0}
                     aria-valuemax={100}
-                    style={{ width: "65%" }}
+                    style={{ width: "70%" }}
                   >
-                    <span>65%</span>
+                    <span>70%</span>
                   </div>
                 </div>
               </div>
@@ -150,7 +150,7 @@ class Skills extends Component {
               data-animate-effect="fadeInLeft"
             >
               <div className="progress-wrap">
-                <h3>Kotlin</h3>
+                <h3>Angular</h3>
                 <div className="progress">
                   <div
                     className="progress-bar color-7"
@@ -158,9 +158,9 @@ class Skills extends Component {
                     aria-valuenow={65}
                     aria-valuemin={0}
                     aria-valuemax={100}
-                    style={{ width: "65%" }}
+                    style={{ width: "70%" }}
                   >
-                    <span>65%</span>
+                    <span>70%</span>
                   </div>
                 </div>
               </div>
